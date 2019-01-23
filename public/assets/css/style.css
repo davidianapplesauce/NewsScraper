@@ -6,4 +6,26 @@ body {
 	margin-bottom: 80px;
 	background-image: url("../images/space-background.jpg");
 }
+.jumbotron {
+    
+    box-shadow: 10px 5px 20px 2px lightslategrey;
+}
+.overlay{
+    background-image: url("../images/13992.jpg");
+}
+.panel {
+	border-radius: 0;
+	box-shadow: 3px 3px 20px lightslategrey;
+}
 
+.panel-heading {
+	background-color: #0058a0;
+	color: white;
+	padding-bottom: 10px;
+}
+.panel .panel-default .panel-body {
+	font-size: 16px;
+}
+.scrape-new {
+	cursor: pointer;
+}
